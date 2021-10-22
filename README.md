@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @t-1-0
+- 👀 I’m interested in cats
+- 🌱 I’m currently learning Godot
